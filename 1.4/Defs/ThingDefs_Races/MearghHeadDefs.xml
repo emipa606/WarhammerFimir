@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <HeadTypeDef ParentName="AverageBase">
+    <defName>MearghHead_Average</defName>
+    <graphicPath>Things/Fimir/MearghHead/Average</graphicPath>
+    <gender>None</gender>
+  </HeadTypeDef>
+  <HeadTypeDef ParentName="AverageBase">
+    <defName>MearghHead_Horned</defName>
+    <graphicPath>Things/Fimir/MearghHead/Horned</graphicPath>
+    <gender>None</gender>
+  </HeadTypeDef>
+</Defs>

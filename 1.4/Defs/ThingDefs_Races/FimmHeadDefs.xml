@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <HeadTypeDef ParentName="AverageBase">
+    <defName>FimmHead_Average</defName>
+    <graphicPath>Things/Fimir/FimmHead/Average</graphicPath>
+    <gender>None</gender>
+  </HeadTypeDef>
+</Defs>
