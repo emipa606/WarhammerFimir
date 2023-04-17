@@ -8,9 +8,9 @@ public class Thought_FimirCasteFimmVsFimirCasteMeargh : Thought_SituationalSocia
     {
         if (pawn.story.traits.DegreeOfTrait(FimirDefOf.FimirCasteFimm) == 1)
         {
-            return -200f;
+            return 200f;
         }
 
-        return 200f;
+        return 0f;
     }
 }

@@ -1,4 +1,7 @@
 # Changelog for WarhammerFimir
 
+1.4.1 - Pawns should now have the correct thoughts towards the mearghs
+
+
 1.4.0 - First publish
 
