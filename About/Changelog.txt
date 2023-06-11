@@ -1,5 +1,8 @@
 # Changelog for WarhammerFimir
 
+1.4.2 - Updated the mayrequire-tags to the continued mod-versions
+
+
 1.4.1 - Pawns should now have the correct thoughts towards the mearghs
 
 
