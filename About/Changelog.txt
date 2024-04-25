@@ -1,5 +1,8 @@
 # Changelog for WarhammerFimir
 
+1.4.3 - Last update, added end-of-life message
+
+
 1.4.2 - Updated the mayrequire-tags to the continued mod-versions
 
 
